@@ -20,5 +20,4 @@ spring:
     properties:
       hibernate.format_sql: true
       hibernate.default_batch_fetch_size: 100
-  h2.console.enabled: false
   sql.init.mode: always # data.sql을 언제 동작시킬지 설정
